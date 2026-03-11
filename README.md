@@ -13,5 +13,8 @@ Welcome to my static Spotify clone! 🎧 I built this project purely to challeng
 
 *(Note: Since this is purely HTML/CSS, it's a static UI and does not play music!)*
 
+##Live Demo 
+https://divya06raj.github.io/spotify-clone/
+
 ---
 💡 *Built by Divya Rajput*
